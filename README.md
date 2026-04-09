@@ -10,8 +10,9 @@ To run this project, you need to have the following installed:
 ### ⚙️ Build Instructions
 
 1. Open the project in **VS Code**
-2. Open the terminal inside VS Code
-3. Navigate to the build folder:
+2. change the food image source to the image path on your pc.
+3. Open the terminal inside VS Code
+4. Navigate to the build folder:
 
 ```
 cd build
